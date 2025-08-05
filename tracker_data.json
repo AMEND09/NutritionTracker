@@ -1,0 +1,75 @@
+{
+    "profile": {
+        "name": "Adi",
+        "age": 16,
+        "sex": "male",
+        "weight_kg": 89.0,
+        "height_cm": 172.0,
+        "start_weight_kg": 85.0,
+        "goal_weight_kg": 80.8,
+        "activity_level": "moderate",
+        "goals": {
+            "calories": 3040,
+            "protein_g": 153,
+            "carbs_g": 417,
+            "fats_g": 84,
+            "water_ml": 2500
+        }
+    },
+    "micronutrient_goals": {
+        "sodium_mg": 2300,
+        "sugar_g": 30
+    },
+    "custom_foods": [],
+    "daily_logs": {
+        "2025-07-24": {
+            "meals": {
+                "Breakfast": [],
+                "Lunch": [],
+                "Dinner": [],
+                "Snacks": [
+                    {
+                        "name": "Goldfish",
+                        "grams": 230.0,
+                        "calories": 1074.1,
+                        "protein_g": 23.0,
+                        "carbs_g": 153.41,
+                        "fats_g": 38.41,
+                        "micros": {
+                            "sodium_mg": 1915.8999999999999,
+                            "sugar_g": 0.0,
+                            "fiber_g": 7.659
+                        }
+                    }
+                ]
+            },
+            "workout_entries": [
+                {
+                    "name": "Cycling (moderate)",
+                    "duration_min": 30,
+                    "calories_burned": 340.0
+                }
+            ],
+            "water_ml": 0,
+            "notes": ""
+        }
+    },
+    "weight_logs": {
+        "2025-07-24": 89.0
+    },
+    "search_history": [
+        "Goldfish"
+    ],
+    "fasting": {
+        "active": true,
+        "start_time": "2025-07-24T00:18:20.822003",
+        "duration_hours": 16
+    },
+    "streaks": {
+        "calorie_goal": 0,
+        "water_goal": 0,
+        "last_checked_date": "2025-07-24"
+    },
+    "meal_plans": {},
+    "progress_photos": {}
+}
