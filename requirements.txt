@@ -1,3 +1,15 @@
+# Nutrient & Workout Tracker Requirements
+# Install with: pip install -r requirements.txt
+
+# Core application dependencies
 rich>=13.0.0
-plotext>=5.2.8
-requests>=2.25.0
+plotext>=5.0.0
+requests>=2.28.0
+
+# Build dependencies
+pyinstaller>=5.0.0
+
+# Optional: Development dependencies
+# pytest>=7.0.0        # For testing
+# black>=22.0.0         # For code formatting
+# flake8>=5.0.0         # For linting
