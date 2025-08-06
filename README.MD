@@ -55,6 +55,13 @@ pip install rich plotext requests pyautogui
 python tracker.py
 ```
 
+### Building the App
+Use the build scripts, there is are Windows and Linux scripts as well as a python file.
+
+```sh
+python build.py
+```
+
 The app will guide you through setting up your profile on first run.
 
 ---
@@ -80,12 +87,6 @@ Use `<` and `>` to move between days.
 
 All your data is stored locally in `tracker_data.json`.  
 You can export a backup from the "More..." menu.
-
----
-
-## Screenshots
-
-*(Add your own screenshots here!)*
 
 ---
 
